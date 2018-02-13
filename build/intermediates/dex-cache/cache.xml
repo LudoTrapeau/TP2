@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludovic TRAPEAU\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="C:\Users\Ludovic TRAPEAU\Desktop\TP2\app\build\intermediates\pre-dexed\debug\library-1.0.18_8e97d7f5ae0f18f83c0f670c9adc0e9df9350703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludovic TRAPEAU\.android\build-cache\b22a5963d447795d079d67a92b4f98648874e472\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Ludovic TRAPEAU\Desktop\TP2\app\build\intermediates\pre-dexed\debug\classes_63263e93389d2d17759e3432233e08a4742cb47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludovic TRAPEAU\.android\build-cache\c4ac6aaf79b79d43674c30c85747b8c62c281087\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Ludovic TRAPEAU\Desktop\TP2\app\build\intermediates\pre-dexed\debug\classes_a29eef80ad481bc838f240fc6b7556f871d74c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludovic TRAPEAU\.android\build-cache\48ba979f06a1f75e3706132e8053e837c9adf682\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Ludovic TRAPEAU\Desktop\TP2\app\build\intermediates\pre-dexed\debug\classes_2220a3f234921a92e224951ce667108a88f8cc70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludovic TRAPEAU\.android\build-cache\e31aaecea7343a04a63083379b26b48d730129b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\Ludovic TRAPEAU\Desktop\TP2\app\build\intermediates\pre-dexed\debug\classes_509d52644f255a9c3de8f8c8c0f02f5ac1cb83f8.jar" />
+    </item>
+
+</items>
